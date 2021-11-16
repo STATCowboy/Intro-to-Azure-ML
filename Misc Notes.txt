@@ -1,0 +1,52 @@
+Datasets
+-------------------
+https://www.kaggle.com/christianlillelund/passenger-list-for-the-estonia-ferry-disaster - Binary Dataset of Estonia Disaster
+https://www.kaggle.com/adityakadiwal/water-potability - Binary Dataset for Water Quality
+
+https://www.kaggle.com/arshid/iris-flower-dataset - Multi-Class Dataset for Iris Type
+
+https://nickmccullum.com/python-machine-learning/linear-regression-python/ - Linear Regression
+	- https://nickmccullum.com/Housing_Data.csv 
+
+https://www.analyticsvidhya.com/blog/2021/04/k-means-clustering-simplified-in-python/ - Clustering Data
+	- https://codefires.com/how-convert-categorical-data-numerical-data-python/
+
+
+https://realpython.com/linear-regression-in-python/ - Linear Regression (good diagrams, not data)
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html - R2 Score
+
+
+------------------------------------------------------------------
+https://www.tothenew.com/blog/predictive-analysis-intro/
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters
+	- https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml/ml-frameworks
+	- https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/ml-frameworks/scikit-learn/train-hyperparameter-tune-deploy-with-sklearn/train-hyperparameter-tune-deploy-with-sklearn.ipynb
+
+
+https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-deploy
+
+
+https://realpython.com/k-means-clustering-python/
+
+
+Mean_Absolute_Error
+Root_Mean_Squared_Error
+Relative_Squared_Error
+Relative_Absolute_Error
+Coefficient_of_Determination
+
+https://docs.microsoft.com/en-us/azure/machine-learning/component-reference/evaluate-model 
+
+https://www.studytonight.com/post/what-is-mean-squared-error-mean-absolute-error-root-mean-squared-error-and-r-squared - Regression
+
+https://www.studytonight.com/post/how-good-is-my-machine-learning-model-how-do-i-improve-its-performance - Classification
+
+
+https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-power-bi-designer-model - Power BI and Azure ML
+https://docs.microsoft.com/en-us/power-bi/connect-data/service-aml-integrate 
+https://www4.stat.ncsu.edu/~boos/var.select/diabetes.tab.txt
+
+
+
+
+git clone https://github.com/MicrosoftLearning/mslearn-dp100
