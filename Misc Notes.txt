@@ -1,5 +1,9 @@
-Datasets
--------------------
+Clone the Azure Machine Learning Lab Exercises
+-------------------------------------------------
+git clone https://github.com/MicrosoftLearning/mslearn-dp100
+
+Various Datasets to play with
+-------------------------------------------------
 https://www.kaggle.com/christianlillelund/passenger-list-for-the-estonia-ferry-disaster - Binary Dataset of Estonia Disaster
 https://www.kaggle.com/adityakadiwal/water-potability - Binary Dataset for Water Quality
 
@@ -46,7 +50,3 @@ https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-power-bi-design
 https://docs.microsoft.com/en-us/power-bi/connect-data/service-aml-integrate 
 https://www4.stat.ncsu.edu/~boos/var.select/diabetes.tab.txt
 
-
-
-
-git clone https://github.com/MicrosoftLearning/mslearn-dp100
